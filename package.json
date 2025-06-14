@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-v14-turkce",
+  "version": "1.0.0",
+  "description": "Botoria Development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Hata: test belirtilmedi\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "v14",
+    "patlatma"
+  ],
+  "author": "",
+  "license": "MIT"
+}
